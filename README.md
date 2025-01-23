@@ -1,6 +1,6 @@
 <!-- Profile Header --> 
 <div align="center">
-  <img src="[https://user-images.githubusercontent.com/12345678/placeholder.png](https://urldefense.com/v3/__https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:28a0a2ea-cd03-4b34-b186-64d669b44b09?promoid=Y69SGM5H&mv=other__;!!B-Wf7dNC-A!9UExRWgtGX-qBoJkkyBqqj8tHOs_-1MmpP5XP8NDV3X2J_sWX4wHXq09prP4GiyFar3xaGlCv2lJKJNYhH-XphEkisc$ )" width="120px" alt="Profile Picture" />
+  <img src=(https://user-images.githubusercontent.com/12345678/placeholder.png](https://urldefense.com/v3/__https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:28a0a2ea-cd03-4b34-b186-64d669b44b09?promoid=Y69SGM5H&mv=other__;!!B-Wf7dNC-A!9UExRWgtGX-qBoJkkyBqqj8tHOs_-1MmpP5XP8NDV3X2J_sWX4wHXq09prP4GiyFar3xaGlCv2lJKJNYhH-XphEkisc$) width="120px" alt="Profile Picture" />
   <h1>Hi there, I'm Michael Swope 👋</h1>
   <p><em>Engineer • Problem Solver • Lifelong Learner</em></p>
 </div>
