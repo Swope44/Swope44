@@ -1,5 +1,5 @@
 <h1 align="center" style="color: darkred;">Hi 👋, I'm Michael Swope</h1>
-<h3 align="center" style="color: darkslategray;">A passionate developer embracing the darker side of tech from India</h3>
+<h3 align="center" style="color: darkslategray;">A Jack of a few trades and master of none.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swope44&label=Profile%20views&color=111111&style=flat-square" alt="swope44" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swope44&theme=darkhub" alt="swope44" /></a> </p>
 🔭 I’m currently delving into Python and Automation's darker mysteries
