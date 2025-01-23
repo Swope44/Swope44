@@ -69,5 +69,5 @@
 ---
 
 <div align="center">
-  🚀 Designed to showcase skills, projects, and GitHub contributions in a clean, dark theme.
+ Dark Theme Is The Only Way
 </div>
