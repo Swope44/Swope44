@@ -1,30 +1,73 @@
-<h1 align="center" style="color: darkred;">Hi 👋, I'm Michael Swope</h1>
-<h3 align="center" style="color: darkslategray;">A Jack of a few trades and master of none.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swope44&label=Profile%20views&color=111111&style=flat-square" alt="swope44" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swope44&theme=darkhub" alt="swope44" /></a> </p>
-🔭 I’m currently delving into Python and Automation's darker mysteries
+<!-- Profile Header --> 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/12345678/placeholder.png" width="120px" alt="Profile Picture" />
+  <h1>Hi there, I'm Michael Swope 👋</h1>
+  <p><em>Engineer • Problem Solver • Lifelong Learner</em></p>
+</div>
 
-🌱 I’m enshrouded in learning Python, Bash, Java, HTML – the language of the night
+<!-- Dark Themed Badges -->
+<div align="center">
+  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/yourusername?style=flat-square&color=0f9d58" />
+  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/yourusername?style=flat-square&color=4285f4" />
+  <img alt="Visits" src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=ff6f00" />
+</div>
 
-👯 I’m looking to collaborate on projects that lurk in the shadows
+---
 
-🤝 Seeking guidance in the arcane arts of coding fundamentals
+## 👨‍💻 About Me
 
-👨‍💻 All of my enigmatic projects are available at https://github.com/Swope44/Swope44
+- 🔭 I’m currently working on Basic Github Integration (https://github.com/yourusername/projectname)**.
+- 🌱 I’m learning CLI, file managment, HTML, CSS, Markdown, PowerPlatform, Python, SQL, JS to level up my skills.
+- 💡 Passionate about problem-solving and building efficient systems.
+- 📚 In my free time, I explore engineering, CAD design, 3D printing, UI/UX design, and developing.
+- 📫 Reach out to me: Through my social media platforms. 
 
-📝 I regularly inscribe my thoughts in the shadows of [My phone's Note app](My phones Note app)
+---
 
-💬 Ask me about the secrets and hidden tricks I've uncovered
+## 🛠️ Skills & Tools
 
-⚡ An amusing fact: My Webpage design mentor was a two-finger typist, oblivious to the command line's dark powers.
+**Languages**
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<h3 align="left" style="color: darkslateblue;">Connect with me through the digital shadows:</h3>
-<p align="left">
-</p>
-<h3 align="left" style="color: darkcyan;">Languages and Tools from the Underworld:</h3>
-<p align="left"> 
-<!-- dark-themed icons for tools and languages -->
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swope44&show_icons=true&theme=dark&locale=en&layout=compact" alt="swope44" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swope44&show_icons=true&theme=dark&locale=en" alt="swope44" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swope44&theme=dark" alt="swope44" /></p>
+**Frameworks & Tools**
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Databases**
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Others**
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide=stars,issues" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+## 🔗 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yourusername/michael-swope-23a325342">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  🚀 Designed to showcase skills, projects, and GitHub contributions in a clean, dark theme.
+</div>
